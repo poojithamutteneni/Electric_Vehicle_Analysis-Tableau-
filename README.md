@@ -2,8 +2,7 @@
 
 This Tableau dashboard provides an in-depth analysis of electric vehicle data, offering valuable insights into market trends, adoption patterns, and technological advancements.
 
-![Electric Vehicle Analysis](./Pasted Graphic.png)
-
+![Electric Vehicle Analysis](Pasted%20Graphic.png)
 
 ---
 
